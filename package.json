@@ -1,15 +1,27 @@
 {
+<<<<<<< HEAD
   "name": "zombieplus-pw",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "zoombieplus",
+  "version": "1.0.0",
+>>>>>>> 16042deb40e63378eba158bb7b6c977437208ffd
   "main": "index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.0"
+=======
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+>>>>>>> 16042deb40e63378eba158bb7b6c977437208ffd
   }
 }
